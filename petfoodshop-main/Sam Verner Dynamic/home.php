@@ -49,7 +49,7 @@
             </a>
         </div>
         <div class="nav-items">
-            <li><a href="about-us.php">About us</a></li>
+            <li><a href="about-us.php">No</a></li>
             <li><a href="products.php">Animals</a></li>
             <li><a href="support.php">Support</a></li>
         </div>
